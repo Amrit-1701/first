@@ -1,3 +1,4 @@
 # first
-my first repository
+My first repository.
+
 Author- Amrit Singh
