@@ -1,4 +1,4 @@
 # first
 My first repository.
 <br>
-Author- Amrit Singh
+Author- Amrit Singh(student)
